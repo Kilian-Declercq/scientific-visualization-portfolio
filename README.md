@@ -12,6 +12,7 @@ A synthetic presentation of my research on **Unsupervised Multispectral Image Se
 [![Poster Preview](assets/poster_preview.jpg)](assets/declercq_iccv_poster.pdf)
 > *[Click to view the high-resolution PDF]*
 
+📄[`Link to the paper on IEEE/cvf open access`](https://openaccess.thecvf.com/content/ICCV2025W/VisionDocs/html/Declercq_PRISM_Pruning_for_Rank-adaptive_Interpretable_Segmentation_Model_with_Application_to_ICCVW_2025_paper.html)
 ---
 
 ### 2. 🎥 Mathematical Animations (Manim)
@@ -41,6 +42,8 @@ High-precision figures generated for the Master's thesis, focusing on spectral s
 * **Animation:** Manim Community Edition
 * **Plotting:** Matplotlib, Seaborn
 * **Design:** LaTeX (Overleaf), Canva Pro
+
+
 
 ---
 
