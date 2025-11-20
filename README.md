@@ -9,8 +9,8 @@ The goal of this portfolio is to demonstrate how mathematical and physical conce
 ### 1. 📜 ICCV 2025 Poster
 A synthetic presentation of my research on **Unsupervised Multispectral Image Segmentation**, accepted at the **ICCV 2025 VisionDocs Workshop**.
 
-[![Poster Preview](assets/poster_preview.jpg)](assets/declercq_iccv_poster.pdf)
-> *[Click to view the high-resolution PDF]*
+[![Poster Preview](assets/poster_preview.png)](assets/declercq_iccv_poster.png)
+> *[Click to view the high-resolution file]*
 
 
 ---
@@ -18,9 +18,9 @@ A synthetic presentation of my research on **Unsupervised Multispectral Image Se
 ### 2. 🎥 Mathematical Animations (Manim)
 To bridge the gap between theory and intuition, I developed Python scripts using the **Manim** library to visualize the use of low-rank decomposition methods, such as NMF, applied to Multispectral Images.
 
-| NMF Convergence | Rank Selection |
+| NMF video | NMF static |
 |:---:|:---:|
-| ![NMF video](assets/nmf_demo.gif) | ![Rank GIF](assets/rank_demo.gif) |
+| ![NMF video](assets/nmf_demo.mp4) | ![[NMF static image](assets/NMF_static_low.png)](assets/NMF_static.png) |
 
 **Key Concept:** Visualizing the iterative loss reduction in a low-rank constraint environment.
 **Source Code:** [View Python Script](./src/manim_scripts/nmf_viz.py)
