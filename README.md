@@ -2,7 +2,7 @@
 
 This repository centralizes the data visualization and scientific communication assets developed during my Master's research in **Computer Vision** and **Machine Learning**.
 
-The goal of this portfolio is to demonstrate how mathematical and physical concepts (Matrix Factorization, Latent Spaces, Deep Learning Architectures) can be made intelligible through a **visual and programmatic approach**.
+The goal of this portfolio is to demonstrate how mathematical and physical concepts (Matrix Factorization, Multispectral Imaging, Deep Learning Architectures) can be made intelligible through a **visual and programmatic approach**.
 
 ## 📂 Repository Contents
 
@@ -20,9 +20,9 @@ To bridge the gap between theory and intuition, I developed Python scripts using
 
 | NMF video | NMF static |
 |:---:|:---:|
-| ![NMF video](assets/nmf_demo.mp4) | ![[NMF static image](assets/NMF_static_low.png)](assets/NMF_static.png) |
+| ![NMF video](assets/nmf_demo.gif) | ![[NMF static image](assets/NMF_static_low.png)](assets/NMF_static.png) |
 
-**Key Concept:** Visualizing the iterative loss reduction in a low-rank constraint environment.
+**Key Concept:** How to interpret low-rank decomposition for Multispectral Images.
 **Source Code:** [View Python Script](./src/manim_scripts/nmf_viz.py)
 
 ---
@@ -32,7 +32,7 @@ To bridge the gap between theory and intuition, I developed Python scripts using
 
 High-precision figures generated for the Master's thesis, focusing on spectral signature analysis and ablation studies.
 
-**To-do:**
+**To-do**
 
 
 ---
