@@ -18,9 +18,9 @@ A synthetic presentation of my research on **Unsupervised Multispectral Image Se
 ### 2. 🎥 Mathematical Animations (Manim)
 To bridge the gap between theory and intuition, I developed Python scripts using the **Manim** library to visualize the use of low-rank decomposition methods, such as NMF, applied to Multispectral Images.
 
-| NMF video | NMF static |
+| NMF video | NMF static image |
 |:---:|:---:|
-| <img src="assets/nmf_demo.gif" width="500" alt="NMF video"> | <img src="assets/NMF_static.png" width="600" alt="NMF static image"> |
+| <img src="assets/nmf_demo.gif" width="450" alt="NMF video"> | <img src="assets/NMF_static.png" width="600" alt="NMF static image"> |
 
 
 **Key Concept:** How to interpret low-rank decomposition for Multispectral Images.
