@@ -20,8 +20,10 @@ To bridge the gap between theory and intuition, I developed Python scripts using
 
 | NMF video | NMF static |
 |:---:|:---:|
-| ![NMF video](assets/nmf_demo.gif) | ![[NMF static image](assets/NMF_static_low.png)](assets/NMF_static.png) |
+| ![NMF video](assets/nmf_demo.gif) | <img src="assets/NMF_static.png" width="300" alt="NMF static image"> |
 
+
+#![[NMF static image](assets/NMF_static_low.png)](assets/NMF_static.png)
 **Key Concept:** How to interpret low-rank decomposition for Multispectral Images.
 **Source Code:** [View Python Script](./src/manim_scripts/nmf_viz.py)
 
