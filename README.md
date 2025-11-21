@@ -23,7 +23,7 @@ To bridge the gap between theory and intuition, I developed Python scripts using
 | <img src="assets/nmf_demo.gif" width="450" alt="NMF video"> | <img src="assets/NMF_static.png" width="600" alt="NMF static image"> |
 
 
-**Key Concept:** How to interpret low-rank decomposition for Multispectral Images.
+**Key Concept:** How to interpret NMF low-rank decomposition for a Multispectral Image.
 **Source Code:** [View Python Script](./src/manim_scripts/nmf_viz.py)
 
 ---
